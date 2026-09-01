@@ -1,4 +1,4 @@
-public class main {
+public class Main {
     /*
     ingredients
         do I want to have amounts?
